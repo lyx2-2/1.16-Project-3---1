@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Raymond",
+      "age": 500
+    },
+    {
+      "id": "0860",
+      "name": "Topcoder",
+      "age": 100
+    },
+    {
+      "id": "0d01",
+      "name": "Topcoder",
+      "age": 100
+    },
+    {
+      "id": "8db8",
+      "name": "Topcoder",
+      "age": 100
+    },
+    {
+      "id": "f934",
+      "name": "Lu",
+      "age": 20
+    },
+    {
+      "id": "371c",
+      "name": "Lu",
+      "age": 20
+    },
+    {
+      "id": "22",
+      "name": "Lu",
+      "age": 20
+    }
+  ]
+}
